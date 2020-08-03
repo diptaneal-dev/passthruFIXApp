@@ -1,0 +1,8 @@
+quickfixj
+quickfixj/**
+build
+build/**
+.idea
+.idea/**
+.gradle
+.gradle/**
